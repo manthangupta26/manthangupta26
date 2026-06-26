@@ -2,7 +2,7 @@
 
 **Software Engineer · 3 Years of Experience · Insurance Domain**
 
-I build reliable, production-grade systems — from real-time data pipelines to modernizing legacy codebases. I care about clean architecture, maintainable code, and systems that actually hold up under pressure.
+I build reliable, production grade systems from real-time data pipelines to modernizing legacy codebases. I care about clean architecture, maintainable code, and systems that actually hold up under pressure
 
 ---
 
@@ -23,8 +23,8 @@ I build reliable, production-grade systems — from real-time data pipelines to 
 
 - 🏗 **3 years** building and maintaining production software in the **insurance domain**
 - ⚡ Designed and handled **real-time data pipelines** for critical business workflows
-- 🔧 Worked extensively on **legacy codebases** — refactoring, stabilizing, and improving incrementally
-- 🧩 Applied **design patterns** (SOLID, Repository, Factory, etc.) to write scalable, testable C# code
+- 🔧 Worked extensively on **legacy codebases** refactoring, stabilizing, and improving incrementally
+- 🧩 Applied **design patterns** (SOLID, Repository, Factory, etc) to write scalable, testable C# code
 - ☁️ Deployed and managed services on **AWS** using **Docker** and **Linux** environments
 
 ---
@@ -32,7 +32,7 @@ I build reliable, production-grade systems — from real-time data pipelines to 
 ## 📌 Currently
 
 - 🎓 Preparing for **MS in Software Engineering** applications (US/Canada)
-- 🔨 Building projects to deepen skills in distributed systems and cloud-native development
+- 🔨 Building projects to deepen skills in distributed systems and cloud native development
 - 📖 Exploring system design and advanced backend architecture
 
 ---
@@ -44,4 +44,4 @@ I build reliable, production-grade systems — from real-time data pipelines to 
 
 ---
 
-*"First, solve the problem. Then, write the code."*
+*"First, solve the problem. Then, write the code"*
