@@ -1,6 +1,6 @@
 # Hi, I'm Manthan Gupta 👋
 
-**Software Engineer · 3 Years of Experience · Insurance Domain**
+**Software Engineer · Over 3 Years of Experience · Insurance Domain**
 
 I build reliable, production grade systems from real-time data pipelines to modernizing legacy codebases. I care about clean architecture, maintainable code, and systems that actually hold up under pressure
 
